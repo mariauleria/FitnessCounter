@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Fitness Counter</string>
+    <string name="init_countdown">00</string>
+    <string name="start_btn">start</string>
+    <string name="pause_btn">pause</string>
+    <string name="reset_btn">reset</string>
+    <string name="workout_history">Victory Record</string>
+    <string name="jjbtn">60\'s jumping jacks</string>
+    <string name="bcbtn">45\'s bicycle crunch</string>
+    <string name="bbtn">20\'s burpees</string>
+    <string name="apbtn">60\'s abs planks</string>
+    <string name="spbtn">20\'s side planks</string>
+    <string name="mcbtn">30\'s mountain climbers</string>
+    <string name="avbtn">15\'s abs V-ups</string>
+    <string name="intro">Let\'s do some workout!\nChoose the workout below to get started.</string>
+
+</resources>
